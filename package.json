@@ -1,0 +1,19 @@
+{
+  "name": "node-hw-01",
+  "version": "1.0.0",
+  "description": "studying",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Vasyl Kutsyi vasiakytsiu200612@ukr.net",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "commander": "^10.0.0",
+    "nanoid": "^3.3.6"
+  }
+}
